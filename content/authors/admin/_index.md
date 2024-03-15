@@ -103,5 +103,5 @@ social:
 highlight_name: true
 ---
 
-Zhangxing Chao is a graduate student majoring in Computer Technology at North China University of Science and Technology. His research interests include digital image processing, machine learning, deep learning, and Java development.
+Zhang xingchao is a graduate student majoring in Computer Technology at North China University of Science and Technology. His research interests include digital image processing, machine learning, deep learning, and Java development.
 {style="text-align: justify;"}

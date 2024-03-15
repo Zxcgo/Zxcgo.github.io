@@ -17,11 +17,11 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: 计算机科学硕士
+role: Master of Computer Science
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: 华北理工大学
+  - name: North China University of Technology
     url: https://www.ncst.edu.cn/
 
 # Short bio (displayed in user profile at end of posts)
@@ -31,20 +31,18 @@ bio: My research interests include distributed robotics, mobile computing and pr
 interests:
   - Artificial Intelligence
   - Computational Linguistics
-  - Information Retrieval
+  - Machine Learning
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: North China University of Technology
+      institution: North China University of Technology
+      year: 2023
+    - course: QingGong College, North China University of Technology
+      institution: Bachelor of Computer Science and Technology
+      year: 2018
+    
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -120,5 +118,5 @@ social:
 highlight_name: true
 ---
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Zhangxing Chao is a graduate student majoring in Computer Technology at North China University of Science and Technology. His research interests include digital image processing, machine learning, deep learning, and Java development.
 {style="text-align: justify;"}
